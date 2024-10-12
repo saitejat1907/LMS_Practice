@@ -11,12 +11,12 @@
 - [Troubleshooting](#troubleshooting)
 
 ## Project Overview
-This project demonstrates the deployment of a static HTML website on an **Nginx** web server hosted on an **Ubuntu Virtual Machine**. The primary objective is to serve static web content via the Nginx server.
+This project demonstrates the deployment of a static HTML website on an **Nginx** web server hosted on an **Ubuntu Virtual Machine**. The primary objective is to serve static web content via the Nginx server in Azure Virtual Machine.
 
 ## Technologies Used
 - **Nginx** - High-performance web server
 - **Ubuntu** - Virtual machine operating system
-- **HTML/CSS/JavaScript** - Website structure and design
+- **HTML** - Website structure and design
 - **Virtual Machine (VM)** - Hosting environment
 
 ## Prerequisites
