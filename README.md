@@ -41,6 +41,14 @@ sudo apt install nginx -y
 sudo systemctl start nginx
 sudo systemctl enable nginx
 ```
+![Before Installing nginx](https://github.com/saitejat1907/LMS_Practice/blob/main/images/image2.png)
+
+
+![After Installing nginx](https://github.com/saitejat1907/LMS_Practice/blob/main/images/image3.png)
+
+![verifying nginx](https://github.com/saitejat1907/LMS_Practice/blob/main/images/image4.png)
+
+
 ### Step 2: Clone the Repository from GitHub
 Clone the GitHub repository containing your HTML files:
 
@@ -97,6 +105,8 @@ Open a web browser and navigate to:
    ```
 
  Note : Need to use the ip address of respective V.M which was created by you.
+
+ ![Output](https://github.com/saitejat1907/LMS_Practice/blob/main/images/image5.png)
 
 ---
 
